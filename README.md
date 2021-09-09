@@ -1,2 +1,3 @@
-#demo repo
-creating readme to explain what repo is for
+# demo-repo
+creating readme 
+Look, I made a change
